@@ -1,0 +1,10 @@
+/* about */
+
+*{
+    display: absolute;
+    text-align: center;
+    margin: auto;
+    padding: 2%;
+    background-color: tomato;
+    color: black;
+}
